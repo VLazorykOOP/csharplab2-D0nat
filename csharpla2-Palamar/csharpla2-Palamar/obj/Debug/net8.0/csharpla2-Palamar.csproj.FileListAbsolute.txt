@@ -1,0 +1,14 @@
+C:\Users\khokh\source\repos\csharplab2-Palamar\csharpla2-Palamar\csharpla2-Palamar\bin\Debug\net8.0\csharpla2-Palamar.exe
+C:\Users\khokh\source\repos\csharplab2-Palamar\csharpla2-Palamar\csharpla2-Palamar\bin\Debug\net8.0\csharpla2-Palamar.deps.json
+C:\Users\khokh\source\repos\csharplab2-Palamar\csharpla2-Palamar\csharpla2-Palamar\bin\Debug\net8.0\csharpla2-Palamar.runtimeconfig.json
+C:\Users\khokh\source\repos\csharplab2-Palamar\csharpla2-Palamar\csharpla2-Palamar\bin\Debug\net8.0\csharpla2-Palamar.dll
+C:\Users\khokh\source\repos\csharplab2-Palamar\csharpla2-Palamar\csharpla2-Palamar\bin\Debug\net8.0\csharpla2-Palamar.pdb
+C:\Users\khokh\source\repos\csharplab2-Palamar\csharpla2-Palamar\csharpla2-Palamar\obj\Debug\net8.0\csharpla2-Palamar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khokh\source\repos\csharplab2-Palamar\csharpla2-Palamar\csharpla2-Palamar\obj\Debug\net8.0\csharpla2-Palamar.AssemblyInfoInputs.cache
+C:\Users\khokh\source\repos\csharplab2-Palamar\csharpla2-Palamar\csharpla2-Palamar\obj\Debug\net8.0\csharpla2-Palamar.AssemblyInfo.cs
+C:\Users\khokh\source\repos\csharplab2-Palamar\csharpla2-Palamar\csharpla2-Palamar\obj\Debug\net8.0\csharpla2-Palamar.csproj.CoreCompileInputs.cache
+C:\Users\khokh\source\repos\csharplab2-Palamar\csharpla2-Palamar\csharpla2-Palamar\obj\Debug\net8.0\csharpla2-Palamar.dll
+C:\Users\khokh\source\repos\csharplab2-Palamar\csharpla2-Palamar\csharpla2-Palamar\obj\Debug\net8.0\refint\csharpla2-Palamar.dll
+C:\Users\khokh\source\repos\csharplab2-Palamar\csharpla2-Palamar\csharpla2-Palamar\obj\Debug\net8.0\csharpla2-Palamar.pdb
+C:\Users\khokh\source\repos\csharplab2-Palamar\csharpla2-Palamar\csharpla2-Palamar\obj\Debug\net8.0\csharpla2-Palamar.genruntimeconfig.cache
+C:\Users\khokh\source\repos\csharplab2-Palamar\csharpla2-Palamar\csharpla2-Palamar\obj\Debug\net8.0\ref\csharpla2-Palamar.dll

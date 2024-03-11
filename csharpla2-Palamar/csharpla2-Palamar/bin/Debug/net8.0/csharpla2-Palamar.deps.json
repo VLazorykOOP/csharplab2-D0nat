@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "csharpla2-Palamar/1.0.0": {
+        "runtime": {
+          "csharpla2-Palamar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "csharpla2-Palamar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
